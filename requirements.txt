@@ -1,0 +1,6 @@
+greenlet==3.2.0
+pillow==11.2.1
+PySimpleGUI==5.0.8.3
+SQLAlchemy==2.0.40
+ttkbootstrap==1.12.0
+typing_extensions==4.13.2
